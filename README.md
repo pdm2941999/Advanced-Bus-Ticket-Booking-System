@@ -1,1 +1,3 @@
 # Advanced-Bus-Ticket-Booking-System
+
+This project titled “Advance Bus Ticket Booking System” is useful to various types of users. This software enables two types of accesses, i.e. a secure admin login and a common customer login. It is having a user-friendly interface and is having a high level of efficiency. This can even be installed in kiosks for ticket booking at bus stops to enable users to easily buy tickets. It is also useful as this system is being showcased as the simulation of an imaginary bus service named “BlueInk Bus Services”. We would like to present this project by requesting you to consider its useful nature at various bus stops and even in kiosks of private bus agencies as bus is one of the cheapest means of transportation.
